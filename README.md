@@ -17,10 +17,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/yaswanth varada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep_kalyan" height="30" width="40" /></a>
-<a href="https://instagram.com/yaswanth_varada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep_kalyan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@yaswanthvarada20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandeepkalyan299" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yaswanth_varada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep_kalyan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandeep-kalyan-75512a232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep_kalyan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_mr_sandy_41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep_kalyan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sandeepkalyan299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandeepkalyan299" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sandeepkalyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep_kalyan" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
